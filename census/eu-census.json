@@ -1,0 +1,313 @@
+{
+ "definition": {
+  "valid": [
+   "accredited",
+   "granted",
+   "recognisedatnationallevel",
+   "setbynationallaw",
+   "undersupervision"
+  ],
+  "revoked": [
+   "accreditationceased",
+   "accreditationrevoked",
+   "deprecatedatnationallevel",
+   "deprecatedbynationallaw",
+   "setbynationallaw_revoked",
+   "supervisionceased",
+   "supervisionrevoked",
+   "withdrawn"
+  ],
+  "drift": "current status in revoked-class AND own ServiceHistory contains any valid status",
+  "unit": "one TSPService entry per the list's own granularity (NOT distinct providers)"
+ },
+ "eu_aggregate": {
+  "lists": 26,
+  "total": 4815,
+  "drift": 2071,
+  "operational": 1896
+ },
+ "eea_aggregate": {
+  "lists": 3,
+  "total": 71,
+  "drift": 27,
+  "operational": 25
+ },
+ "eu_lists_with_drift": 26,
+ "ireland": "endpoint unreachable (HTTP 000) at 2026-06-30 fetch; census covers EU-26 of 27",
+ "range_pct": [
+  6.2,
+  80.8
+ ],
+ "per_list": [
+  {
+   "territory": "AT",
+   "group": "EU",
+   "total": 100,
+   "drift": 23,
+   "operational": 22,
+   "drift_pct": 23.0,
+   "sha256": "f91bbd67a2bf913dfea5f35e9d3bf9157a1bac7d3d2377558ebf071e251e557b"
+  },
+  {
+   "territory": "BE",
+   "group": "EU",
+   "total": 135,
+   "drift": 57,
+   "operational": 57,
+   "drift_pct": 42.2,
+   "sha256": "3d5b6572b82cbdbed9e019517c33d9e3356c2f6f257ca90f4a1b495082fcf5eb"
+  },
+  {
+   "territory": "BG",
+   "group": "EU",
+   "total": 115,
+   "drift": 58,
+   "operational": 57,
+   "drift_pct": 50.4,
+   "sha256": "b7ac246a31e6d805f4830cb36449ed86cdecef328a66a37b9bca9c2969b6fd66"
+  },
+  {
+   "territory": "CY",
+   "group": "EU",
+   "total": 8,
+   "drift": 2,
+   "operational": 2,
+   "drift_pct": 25.0,
+   "sha256": "2163e86af5bc0f8d7f77f7b8b4e454376a81b6e1f68a48d2f7148a3b3ab31690"
+  },
+  {
+   "territory": "CZ",
+   "group": "EU",
+   "total": 547,
+   "drift": 59,
+   "operational": 59,
+   "drift_pct": 10.8,
+   "sha256": "3956425d012f827d0ec5444b65d63e88c3cacac2210d3978627f18e473e57bd9"
+  },
+  {
+   "territory": "DE",
+   "group": "EU",
+   "total": 977,
+   "drift": 789,
+   "operational": 715,
+   "drift_pct": 80.8,
+   "sha256": "bb1763ade35383f4394131ad9e528e165bd9137fed4813629c13838809dc710e"
+  },
+  {
+   "territory": "DK",
+   "group": "EU",
+   "total": 16,
+   "drift": 1,
+   "operational": 1,
+   "drift_pct": 6.2,
+   "sha256": "4fcbf5c7d4a3e6b62d54efd36123ae467dfd6f3dee6961a30a3df59e83c03326"
+  },
+  {
+   "territory": "EE",
+   "group": "EU",
+   "total": 66,
+   "drift": 45,
+   "operational": 44,
+   "drift_pct": 68.2,
+   "sha256": "c6b7b872fadcafdd24ad772f7b6649c5c87e3aa27ea44952727ea73d2c435918"
+  },
+  {
+   "territory": "EL",
+   "group": "EU",
+   "total": 133,
+   "drift": 20,
+   "operational": 20,
+   "drift_pct": 15.0,
+   "sha256": "344de4bf8ca2b623d2cc5f3e0299a606aabe0f0b7c357263a4dc0970cbe2a3e1"
+  },
+  {
+   "territory": "ES",
+   "group": "EU",
+   "total": 424,
+   "drift": 187,
+   "operational": 187,
+   "drift_pct": 44.1,
+   "sha256": "ab1cb863c6536f4cdb542f38eee52b519309b0dd5822ce11eda1a1791f158135"
+  },
+  {
+   "territory": "FI",
+   "group": "EU",
+   "total": 19,
+   "drift": 7,
+   "operational": 7,
+   "drift_pct": 36.8,
+   "sha256": "fec6dcdba44c55085420cfc7f0cd5d101f0b429f017d5e7810877b83221e29a5"
+  },
+  {
+   "territory": "FR",
+   "group": "EU",
+   "total": 344,
+   "drift": 192,
+   "operational": 190,
+   "drift_pct": 55.8,
+   "sha256": "0209858f5c50440cfb4b779910d1819b9aafaa78d635377bf9cec03478902b39"
+  },
+  {
+   "territory": "HR",
+   "group": "EU",
+   "total": 44,
+   "drift": 22,
+   "operational": 22,
+   "drift_pct": 50.0,
+   "sha256": "1edff74c6fd82fd252f127e6e089c775ba8deed7b4d6b9978a70059b82a1b6da"
+  },
+  {
+   "territory": "HU",
+   "group": "EU",
+   "total": 337,
+   "drift": 131,
+   "operational": 127,
+   "drift_pct": 38.9,
+   "sha256": "ea1899fda5f78cad378b4816e723d015eb2ecd7ff21f445d146045d83fb5d90b"
+  },
+  {
+   "territory": "IS",
+   "group": "EEA",
+   "total": 8,
+   "drift": 1,
+   "operational": 1,
+   "drift_pct": 12.5,
+   "sha256": "b2c1fdfa09cd8f6ae39b90c1a8d64b872b257901bb6b99af43a74975153b2b15"
+  },
+  {
+   "territory": "IT",
+   "group": "EU",
+   "total": 557,
+   "drift": 85,
+   "operational": 37,
+   "drift_pct": 15.3,
+   "sha256": "c662c6acc5c69865ab88926d1143a2808c2711f7a0c76fe229ae302a157ba25c"
+  },
+  {
+   "territory": "LI",
+   "group": "EEA",
+   "total": 10,
+   "drift": 8,
+   "operational": 7,
+   "drift_pct": 80.0,
+   "sha256": "f406b0346fd742340f5173c9080aa1368534b7e5503de1697bb827a6baf7ca1f"
+  },
+  {
+   "territory": "LT",
+   "group": "EU",
+   "total": 86,
+   "drift": 39,
+   "operational": 32,
+   "drift_pct": 45.3,
+   "sha256": "ee274d7f9721d656fd5d9da78ed51cf9ec2da1ac2807cb0eea315b6df04e4a95"
+  },
+  {
+   "territory": "LU",
+   "group": "EU",
+   "total": 34,
+   "drift": 18,
+   "operational": 18,
+   "drift_pct": 52.9,
+   "sha256": "979384a04a416d6601c86fdd25a2921602a8e031be0f4df0a50d805f3913666c"
+  },
+  {
+   "territory": "LV",
+   "group": "EU",
+   "total": 40,
+   "drift": 19,
+   "operational": 19,
+   "drift_pct": 47.5,
+   "sha256": "406073daa0dcf04670002803ad91026001d85274da64a9264739027d88566be1"
+  },
+  {
+   "territory": "MT",
+   "group": "EU",
+   "total": 10,
+   "drift": 5,
+   "operational": 5,
+   "drift_pct": 50.0,
+   "sha256": "cf942917c4855535fddb101f4c10f0ff122e723a1c48bc7f717029e764cf211c"
+  },
+  {
+   "territory": "NL",
+   "group": "EU",
+   "total": 97,
+   "drift": 55,
+   "operational": 55,
+   "drift_pct": 56.7,
+   "sha256": "0a0cc4cbdec9e989318f2c5da634cb24cb69b349d57c39acc7e3804c62fb7979"
+  },
+  {
+   "territory": "NO",
+   "group": "EEA",
+   "total": 53,
+   "drift": 18,
+   "operational": 17,
+   "drift_pct": 34.0,
+   "sha256": "f7e8f4bbf65062d24da61cf79568fbbb116d76b321d2f57b69e7bcd645261be7"
+  },
+  {
+   "territory": "PL",
+   "group": "EU",
+   "total": 137,
+   "drift": 64,
+   "operational": 46,
+   "drift_pct": 46.7,
+   "sha256": "3362ed2f3578d4d3cf26bc9e0a28086013a819bf21dbf60e696c9670e77dfbf4"
+  },
+  {
+   "territory": "PT",
+   "group": "EU",
+   "total": 105,
+   "drift": 48,
+   "operational": 37,
+   "drift_pct": 45.7,
+   "sha256": "fbe6475a746d6c39a701d01b32c7b6a4fd6759c203f2f0af332e0f4554977674"
+  },
+  {
+   "territory": "RO",
+   "group": "EU",
+   "total": 167,
+   "drift": 36,
+   "operational": 28,
+   "drift_pct": 21.6,
+   "sha256": "73cfe0ac4cfe604ffc5b26eeb655a2e8ec17efe56087488e84fe62aec20b67d8"
+  },
+  {
+   "territory": "SE",
+   "group": "EU",
+   "total": 14,
+   "drift": 4,
+   "operational": 4,
+   "drift_pct": 28.6,
+   "sha256": "7f4cbafd3ff99fcf06d57e68aca129507cd9bf215794de03641595504945cf79"
+  },
+  {
+   "territory": "SI",
+   "group": "EU",
+   "total": 111,
+   "drift": 56,
+   "operational": 56,
+   "drift_pct": 50.5,
+   "sha256": "4ca5b047ddd4432ed8fba5afe4c14a4068518f208e0b8800f3b53be06bc80065"
+  },
+  {
+   "territory": "SK",
+   "group": "EU",
+   "total": 192,
+   "drift": 49,
+   "operational": 49,
+   "drift_pct": 25.5,
+   "sha256": "5c048d207a29e48eac8ae3011f406edbb6b0d223924f1f3d328e8db16a33846f"
+  },
+  {
+   "territory": "UK",
+   "group": "other",
+   "total": 19,
+   "drift": 10,
+   "operational": 10,
+   "drift_pct": 52.6,
+   "sha256": "c6185978315d1470b023b59af02ab1a200e6e6bec8c60f949e9151f61b2583e5"
+  }
+ ]
+}

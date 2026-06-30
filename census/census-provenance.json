@@ -1,0 +1,185 @@
+{
+ "fetched": {
+  "AT": {
+   "source_url": "https://www.signatur.rtr.at/vertrauensliste.xml",
+   "sha256": "f91bbd67a2bf913dfea5f35e9d3bf9157a1bac7d3d2377558ebf071e251e557b",
+   "bytes": 502447,
+   "fetched_utc": "2026-06-30"
+  },
+  "BE": {
+   "source_url": "https://tsl.belgium.be/tsl-be-v6.xml",
+   "sha256": "3d5b6572b82cbdbed9e019517c33d9e3356c2f6f257ca90f4a1b495082fcf5eb",
+   "bytes": 718787,
+   "fetched_utc": "2026-06-25"
+  },
+  "BG": {
+   "source_url": "https://crc.bg/files/_en/TSL_BG.xml",
+   "sha256": "b7ac246a31e6d805f4830cb36449ed86cdecef328a66a37b9bca9c2969b6fd66",
+   "bytes": 627531,
+   "fetched_utc": "2026-06-30"
+  },
+  "CY": {
+   "source_url": "https://dec.dmrid.gov.cy/dmrid/dec/ws_dec.nsf/all/5064247FF4FC3DCCC2258506002EEA17/$file/TSL-CY-sign.xml",
+   "sha256": "2163e86af5bc0f8d7f77f7b8b4e454376a81b6e1f68a48d2f7148a3b3ab31690",
+   "bytes": 63522,
+   "fetched_utc": "2026-06-30"
+  },
+  "CZ": {
+   "source_url": "https://tsl.gov.cz/publ/TSL_CZ.xtsl",
+   "sha256": "3956425d012f827d0ec5444b65d63e88c3cacac2210d3978627f18e473e57bd9",
+   "bytes": 2603121,
+   "fetched_utc": "2026-06-30"
+  },
+  "DE": {
+   "source_url": "https://tl.bundesnetzagentur.de/TL-DE.XML",
+   "sha256": "bb1763ade35383f4394131ad9e528e165bd9137fed4813629c13838809dc710e",
+   "bytes": 5350133,
+   "fetched_utc": "2026-06-25"
+  },
+  "DK": {
+   "source_url": "https://www.digst.dk/TSLDK_v6xml",
+   "sha256": "4fcbf5c7d4a3e6b62d54efd36123ae467dfd6f3dee6961a30a3df59e83c03326",
+   "bytes": 92502,
+   "fetched_utc": "2026-06-30"
+  },
+  "EE": {
+   "source_url": "https://sr.riik.ee/tsl/estonian-tsl.xml",
+   "sha256": "c6b7b872fadcafdd24ad772f7b6649c5c87e3aa27ea44952727ea73d2c435918",
+   "bytes": 412129,
+   "fetched_utc": "2026-06-25"
+  },
+  "EL": {
+   "source_url": "https://www.eett.gr/tsl/tl-el.xml",
+   "sha256": "344de4bf8ca2b623d2cc5f3e0299a606aabe0f0b7c357263a4dc0970cbe2a3e1",
+   "bytes": 700047,
+   "fetched_utc": "2026-06-30"
+  },
+  "ES": {
+   "source_url": "https://tsl.digital.gob.es/TSL.xml",
+   "sha256": "ab1cb863c6536f4cdb542f38eee52b519309b0dd5822ce11eda1a1791f158135",
+   "bytes": 2953339,
+   "fetched_utc": "2026-06-30"
+  },
+  "FI": {
+   "source_url": "https://dp.trustedlist.fi/fi-tl-v6.xml",
+   "sha256": "fec6dcdba44c55085420cfc7f0cd5d101f0b429f017d5e7810877b83221e29a5",
+   "bytes": 133368,
+   "fetched_utc": "2026-06-30"
+  },
+  "FR": {
+   "source_url": "https://messervices.cyber.gouv.fr/visas/tl-fr_v6.xml",
+   "sha256": "0209858f5c50440cfb4b779910d1819b9aafaa78d635377bf9cec03478902b39",
+   "bytes": 2402769,
+   "fetched_utc": "2026-06-30"
+  },
+  "HR": {
+   "source_url": "https://gov.hr/UserDocsImages/Usluge%20povjerenja/Pouzdani_popis_RH.xml",
+   "sha256": "1edff74c6fd82fd252f127e6e089c775ba8deed7b4d6b9978a70059b82a1b6da",
+   "bytes": 256894,
+   "fetched_utc": "2026-06-30"
+  },
+  "HU": {
+   "source_url": "https://www.nmhh.hu/tl/pub/HU_TL.xml",
+   "sha256": "ea1899fda5f78cad378b4816e723d015eb2ecd7ff21f445d146045d83fb5d90b",
+   "bytes": 1452692,
+   "fetched_utc": "2026-06-30"
+  },
+  "IS": {
+   "source_url": "https://tsl.fjarskiptastofa.is/library/skrar/tsl/tsl.xml",
+   "sha256": "b2c1fdfa09cd8f6ae39b90c1a8d64b872b257901bb6b99af43a74975153b2b15",
+   "bytes": 64603,
+   "fetched_utc": "2026-06-30"
+  },
+  "IT": {
+   "source_url": "https://eidas.agid.gov.it/TL/TSL-IT.xml",
+   "sha256": "c662c6acc5c69865ab88926d1143a2808c2711f7a0c76fe229ae302a157ba25c",
+   "bytes": 2848257,
+   "fetched_utc": "2026-06-30"
+  },
+  "LI": {
+   "source_url": "https://www.llv.li/serviceportal2/amtsstellen/amt-fuer-kommunikation/trustedlist-li.xml",
+   "sha256": "f406b0346fd742340f5173c9080aa1368534b7e5503de1697bb827a6baf7ca1f",
+   "bytes": 106885,
+   "fetched_utc": "2026-06-30"
+  },
+  "LT": {
+   "source_url": "https://elektroninisparasas.lt/LT-TSL.xml",
+   "sha256": "ee274d7f9721d656fd5d9da78ed51cf9ec2da1ac2807cb0eea315b6df04e4a95",
+   "bytes": 586503,
+   "fetched_utc": "2026-06-30"
+  },
+  "LU": {
+   "source_url": "https://trusted-list.lu/tsl.xml",
+   "sha256": "979384a04a416d6601c86fdd25a2921602a8e031be0f4df0a50d805f3913666c",
+   "bytes": 212974,
+   "fetched_utc": "2026-06-30"
+  },
+  "LV": {
+   "source_url": "https://trustlist.gov.lv/tsl/latvian-tsl.xml",
+   "sha256": "406073daa0dcf04670002803ad91026001d85274da64a9264739027d88566be1",
+   "bytes": 253737,
+   "fetched_utc": "2026-06-30"
+  },
+  "MT": {
+   "source_url": "https://tsl.mca.org.mt/MT_TSL.xml",
+   "sha256": "cf942917c4855535fddb101f4c10f0ff122e723a1c48bc7f717029e764cf211c",
+   "bytes": 104772,
+   "fetched_utc": "2026-06-30"
+  },
+  "NL": {
+   "source_url": "https://www.rdi.nl/site/binaries/content/assets/site-content/bestanden/current-tsl.xml",
+   "sha256": "0a0cc4cbdec9e989318f2c5da634cb24cb69b349d57c39acc7e3804c62fb7979",
+   "bytes": 778197,
+   "fetched_utc": "2026-06-30"
+  },
+  "NO": {
+   "source_url": "https://nkom.no/files/TL/NO_TL.xml",
+   "sha256": "f7e8f4bbf65062d24da61cf79568fbbb116d76b321d2f57b69e7bcd645261be7",
+   "bytes": 304629,
+   "fetched_utc": "2026-06-30"
+  },
+  "PL": {
+   "source_url": "https://www.nccert.pl/tsl/PL_TSL.xml",
+   "sha256": "3362ed2f3578d4d3cf26bc9e0a28086013a819bf21dbf60e696c9670e77dfbf4",
+   "bytes": 869021,
+   "fetched_utc": "2026-06-30"
+  },
+  "PT": {
+   "source_url": "https://www.gns.gov.pt/media/TSLPT.xml",
+   "sha256": "fbe6475a746d6c39a701d01b32c7b6a4fd6759c203f2f0af332e0f4554977674",
+   "bytes": 678026,
+   "fetched_utc": "2026-06-30"
+  },
+  "RO": {
+   "source_url": "https://trustedlist.adr.gov.ro/trustedlist.xml",
+   "sha256": "73cfe0ac4cfe604ffc5b26eeb655a2e8ec17efe56087488e84fe62aec20b67d8",
+   "bytes": 812213,
+   "fetched_utc": "2026-06-30"
+  },
+  "SE": {
+   "source_url": "https://trustedlist.pts.se/tlv6/SE-TL.xml",
+   "sha256": "7f4cbafd3ff99fcf06d57e68aca129507cd9bf215794de03641595504945cf79",
+   "bytes": 91075,
+   "fetched_utc": "2026-06-30"
+  },
+  "SI": {
+   "source_url": "https://www.tl.gov.si/SI_TL.xml",
+   "sha256": "4ca5b047ddd4432ed8fba5afe4c14a4068518f208e0b8800f3b53be06bc80065",
+   "bytes": 686915,
+   "fetched_utc": "2026-06-30"
+  },
+  "SK": {
+   "source_url": "http://tl.nbu.gov.sk/kca/tsl/tsl.xml",
+   "sha256": "5c048d207a29e48eac8ae3011f406edbb6b0d223924f1f3d328e8db16a33846f",
+   "bytes": 1165168,
+   "fetched_utc": "2026-06-30"
+  },
+  "UK": {
+   "source_url": "https://ec.europa.eu/tools/lotl/Final_EU_TSL-UKsigned.xml",
+   "sha256": "c6185978315d1470b023b59af02ab1a200e6e6bec8c60f949e9151f61b2583e5",
+   "bytes": 115719,
+   "fetched_utc": "2026-06-30"
+  }
+ },
+ "note": "Real EU/EEA member-state Trusted Lists (ETSI TS 119612) from the EU LOTL. Mixed fetch dates pinned per file by SHA-256. Not synthetic."
+}
